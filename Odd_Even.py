@@ -1,4 +1,4 @@
-num = 8
+num = 18
 if num % 2 == 0:
     print(num, "is even")
 else:
