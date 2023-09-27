@@ -1,4 +1,4 @@
-num = 7
+num = 22
 if num % 2 == 0:
     print(num, "is even")
 else:
